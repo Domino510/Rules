@@ -1,0 +1,9 @@
+# ——————————————————————————————
+# 规则名称: HBOMax_Download (HBO Max 会话与流媒体)
+# 适用平台: Surge
+# 描述: 覆盖 HBO Max 拉美与国际区分发会话 API
+# ——————————————————————————————
+DOMAIN,sessions-latam.api.hbo.com
+DOMAIN,comet-latam.api.hbo.com
+DOMAIN,sessions.api.hbo.com
+DOMAIN,user-comet-latam.api.hbo.com

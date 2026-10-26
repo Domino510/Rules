@@ -1,0 +1,10 @@
+# ——————————————————————————————
+# 规则名称: iQIYI_CN (爱奇艺大陆版直连兜底)
+# 适用平台: Surge
+# 描述: 大陆 iQIYI 直连兜底（防误送台湾或海外代理），涵盖数据分片与静态 CDN
+# ——————————————————————————————
+DOMAIN,data.video.iqiyi.com
+DOMAIN-SUFFIX,iqiyipic.com
+DOMAIN-SUFFIX,iqiyi.com
+DOMAIN-SUFFIX,inter.iqiyi.com
+DOMAIN-SUFFIX,qy.net

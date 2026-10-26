@@ -1,0 +1,12 @@
+# ——————————————————————————————
+# 规则名称: StarPlus_Download
+# 适用平台: Surge
+# 描述: Star+ 鉴权、账户连接与客户端基础服务
+# ——————————————————————————————
+USER-AGENT,Star+*
+DOMAIN-SUFFIX,starplus.com
+DOMAIN-SUFFIX,starott.com
+DOMAIN,star.api.edge.bamgrid.com
+DOMAIN,star.connections.edge.bamgrid.com
+DOMAIN,star.content.edge.bamgrid.com
+DOMAIN,star.playback.edge.bamgrid.com

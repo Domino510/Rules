@@ -1,3 +1,8 @@
+# ——————————————————————————————
+# 规则名称: GameDownload (主流游戏平台下载分流)
+# 适用平台: Surge
+# 覆盖平台: Xbox, Epic Games, Rockstar, GOG, Ubisoft, EA/Origin, Riot Games
+# ——————————————————————————————
 DOMAIN,assets1.xboxlive.com
 DOMAIN,assets2.xboxlive.com
 DOMAIN,client.hikarifield.co.jp
